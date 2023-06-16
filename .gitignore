@@ -1,0 +1,36 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/MD solution and project files
+*.sln
+*.csproj
+*.unityproj
+*.sln.DotSettings
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio Code generated files
+.vscode/
+
+# Miscellaneous
+.DS_Store
+*.pidb.meta
+
+# Android
+/[Oo]bj/unity*/
+/[Ll]ibs/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ss]treamingAssets/
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/

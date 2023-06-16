@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5B889104-1A3D-1153-41C3-27853F584240}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="230b436c-bd80-4190-a3bd-52dc2f6c6fbb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pedestal fan/Script/RotateObj.cs">
+    <Files>
+      <File FileName="Assets/Pedestal fan/Script/RotateObj.cs" Line="22" Column="32" />
+      <File FileName="Assets/OutletColliderScript.cs" Line="21" Column="29" />
+      <File FileName="Assets/Real-Time Procedural Cable Simple/Scripts/CableProceduralStatic.cs" Line="54" Column="1" />
+      <File FileName="Assets/inletJudgeScript.cs" Line="32" Column="17" />
+      <File FileName="Assets/laptopON_behaviour.cs" Line="14" Column="23" />
+      <File FileName="Assets/Scripts/Fan_ButtonController.cs" Line="45" Column="22" />
+      <File FileName="Assets/moveFanAnswer.cs" Line="34" Column="32" />
+      <File FileName="Assets/MoveLaptopAnswerSheet.cs" Line="19" Column="17" />
+      <File FileName="Assets/ComCableControllerScript.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
